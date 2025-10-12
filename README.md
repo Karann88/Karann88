@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="145" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtaGoybzQ0d3czNWd5bWF5YmxxZXZsNjFsNmdsd3Zja2pmdjhwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"  />
+<img align="center" height="145" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtaGoybzQ0d3czNWd5bWF5YmxxZXZsNjFsNmdsd3Zja2pmdjhwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"  />
 
 ###
 
@@ -13,18 +13,18 @@
 <p align="left">🔭  An upcoming & good Softawre Engineer with strong foundation in Java and sharing about his journey and learnings in tech.<br>🌱 I’m currently learning about SpringBoot and Machine Learning.<br>🎒 Studied Computer Science & Enginneering at JECRC University, Jaipur, India.<br>⚡ Fun fact: I write code that everyone can easily write. I don't like graphs and dynamic programming.<br>🤐 Done Data Structures and Algorithms from Java. <br>Contact me: karanjangir52@gmail.com</p>
 
 ###
-<h1 align="left"> Github Stats</h1>
+<h2 align="left"> Github Stats</h2>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Karann88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph" /> </br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Karann88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&border_radius=5" height="200" alt="stats graph" /> 
 </div>
 
-<div align="left">
-<img src="https://streak-stats.demolab.com?user=Karann88&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph" /> </br>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Karann88&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="180" alt="streak graph" /> </br>
 </div>
 
-<div align="left"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karann88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph" />
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karann88&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=codeSTACKr&hide_border=false&border_radius=5" height="200" alt="languages graph" />
 </div>
 
 ###
@@ -60,8 +60,8 @@
 </div>
 
 ###
-<h2 align="left">Performance</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karann88" alt="karann88" /></a> </p>
+<h2 align="left">Github Achievements</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karann88&theme=dracula&no-frame=true&margin-w=10&margin-h=10" alt="karann88" /></a> </p>
 
 
 ###
